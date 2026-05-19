@@ -1,4 +1,4 @@
-# 
+# ultimate VMware Workstation para PC scripts é o melhor VMware Workstation para PC scripts com clonagem de VM e alocacao de recursos. Seguro, confiável e otimizado para máximo
 
 
 
